@@ -158,35 +158,32 @@
 /* =========================
    SOBRE NÓS
 ========================= */
-
 .about-section {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 4rem;
-  padding: 5rem 3rem;
-
-  background: #8e9297;
-  border-radius: 22px;
-  backdrop-filter: blur(11px);
-  border: 1px solid rgba(255,255,255,.7);
-  box-shadow: 0 18px 35px rgba(0,0,0,.05);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    padding: 5rem 3rem;
+    background: #222325;
+    border-radius: 22px;
+    border: 1px solid rgba(255,255,255,.7);
+    box-shadow: 0 18px 35px rgba(0,0,0,.05);
 }
+
 
 /* shapes leves atrás */
 .about-section::before {
-  content: "";
-  position: absolute;
-  width: 580px;
-  height: 580px;
-  border-radius: 60%;
-  filter: blur(85px);
-  background: #0d5fc4;
-  top: -90px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 0;
+    content: "";
+    position: absolute;
+    width: 380px;
+    height: 380px;
+    filter: blur(110px);
+    background: #7e8c9b;
+    top: -90px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 0;
 }
 
 .about-section > * {

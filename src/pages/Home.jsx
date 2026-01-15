@@ -4,7 +4,7 @@ import PostCard from '../components/PostCard';
 import SidebarContainer from '../components/sidebars/SidebarContainer';
 import AboutAccordion from '../components/AboutAccordion';
 import { Link } from 'react-router-dom';
-import logo from '../assets/hugo-perfil.jpg';
+import logo from '../assets/logo-hugo.png';
 import '../styles/Home.css';
 import '../styles/pages.css';
 
@@ -111,3 +111,4 @@ const Home = () => {
 };
 
 export default Home;
+

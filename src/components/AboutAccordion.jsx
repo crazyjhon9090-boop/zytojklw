@@ -3,9 +3,9 @@ import '../styles/about-accordion.css';
 
 const ITEMS = [
   {
-    title: 'Hugo Cintra',
+    title: 'Cintra Advocacia',
     content:
-      'Advogados com atuação familiar Pai e Filho, com atuação pautada na excelência jurídica e no compromisso com a defesa dos direitos e garantias fundamentais de cada cliente.',
+      'Advogados Pai e Filho, com atuação pautada na excelência jurídica e no compromisso com a defesa dos direitos e garantias fundamentais de cada cliente.',
   },
   {
     title: 'Especialidades',
@@ -56,3 +56,4 @@ const AboutAccordion = () => {
 };
 
 export default AboutAccordion;
+

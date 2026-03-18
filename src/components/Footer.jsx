@@ -59,9 +59,9 @@ const Footer = () => {
             <img src={logo1} alt="Logo" />
           </div>
 
-          <p>Rua Exemplo, 123 - São Paulo, SP</p>
-          <p>contato@exemplo.com</p>
-          <p>(11) 99999-9999</p>
+          <p>Belém, Pará</p>
+          <p>hugoolivercintra2012@gmail.com</p>
+          <p>(91) 98029-2747</p>
         </div>
 
         {/* LINKS INTERNOS */}
